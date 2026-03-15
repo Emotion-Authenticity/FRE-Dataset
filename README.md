@@ -183,6 +183,6 @@ Facial Action Unit (FAU) intensity values (`_r`) and FAU presence values (`_c`) 
 - Participants were informed of their **right to withdraw data** at any time without consequence.
 - Due to the consent limitations, the raw video could not be shared; sonly the .CSV files are available for use.
 
-## Citations
+## References
 [1] Israel, L., Paukner, P., Schiestel, L., Diepold, K., & Schönbrodt, F. D. (2021, September 27). The OpenLAV video database for affect induction: Analyzing the uniformity of video stimuli effects. https://doi.org/10.31234/osf.io/vhmbq
 [2] OpenFace 2.0: Facial Behavior Analysis Toolkit Tadas Baltrušaitis, Amir Zadeh, Yao Chong Lim, and Louis-Philippe Morency, IEEE International Conference on Automatic Face and Gesture Recognition, 2018
