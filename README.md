@@ -77,7 +77,7 @@ The table below shows the experimental design. Each cell represents a separate v
 
 ## Stimulus Videos
 
-All videos were sourced from [YouTube](https://www.youtube.com) and [Vimeo](https://vimeo.com) under a **Creative Commons CC-BY license** based on the videos stated by [1] that induce emotions.
+All videos used to induce emotions were sourced from [YouTube](https://www.youtube.com) and [Vimeo](https://vimeo.com) under a **Creative Commons CC-BY license** based on the videos stated by [1] that induce emotions.
 
 <details>
 <summary><strong>Happy</strong></summary>
