@@ -181,7 +181,7 @@ Facial Action Unit (FAU) intensity values (`_r`) and FAU presence values (`_c`) 
 - All video recordings are stored on **password-protected institutional servers**.
 - Participant identities are **not disclosed** in any published materials.
 - Participants were informed of their **right to withdraw data** at any time without consequence.
-- Due to the consent limitations, the raw video could not be shared; sonly the .CSV files are available for use.
+- Due to the consent limitations, the raw video could not be shared; only the .CSV files are available for use.
 
 ## References
 [1] Israel, L., Paukner, P., Schiestel, L., Diepold, K., & Schönbrodt, F. D. (2021, September 27). The OpenLAV video database for affect induction: Analyzing the uniformity of video stimuli effects. https://doi.org/10.31234/osf.io/vhmbq
